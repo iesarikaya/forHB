@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\enes.sarikaya\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\enes.sarikaya\\.nuget\\packages"
+    ]
+  }
+}

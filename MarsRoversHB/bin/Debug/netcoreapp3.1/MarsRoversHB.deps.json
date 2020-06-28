@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MarsRoversHB/1.0.0": {
+        "runtime": {
+          "MarsRoversHB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MarsRoversHB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

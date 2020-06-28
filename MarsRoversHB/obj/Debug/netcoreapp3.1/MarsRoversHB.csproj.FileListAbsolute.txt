@@ -1,0 +1,13 @@
+C:\Users\enes.sarikaya\source\repos\MarsRoversHB\MarsRoversHB\bin\Debug\netcoreapp3.1\MarsRoversHB.exe
+C:\Users\enes.sarikaya\source\repos\MarsRoversHB\MarsRoversHB\bin\Debug\netcoreapp3.1\MarsRoversHB.deps.json
+C:\Users\enes.sarikaya\source\repos\MarsRoversHB\MarsRoversHB\bin\Debug\netcoreapp3.1\MarsRoversHB.runtimeconfig.json
+C:\Users\enes.sarikaya\source\repos\MarsRoversHB\MarsRoversHB\bin\Debug\netcoreapp3.1\MarsRoversHB.runtimeconfig.dev.json
+C:\Users\enes.sarikaya\source\repos\MarsRoversHB\MarsRoversHB\bin\Debug\netcoreapp3.1\MarsRoversHB.dll
+C:\Users\enes.sarikaya\source\repos\MarsRoversHB\MarsRoversHB\bin\Debug\netcoreapp3.1\MarsRoversHB.pdb
+C:\Users\enes.sarikaya\source\repos\MarsRoversHB\MarsRoversHB\obj\Debug\netcoreapp3.1\MarsRoversHB.csprojAssemblyReference.cache
+C:\Users\enes.sarikaya\source\repos\MarsRoversHB\MarsRoversHB\obj\Debug\netcoreapp3.1\MarsRoversHB.AssemblyInfoInputs.cache
+C:\Users\enes.sarikaya\source\repos\MarsRoversHB\MarsRoversHB\obj\Debug\netcoreapp3.1\MarsRoversHB.AssemblyInfo.cs
+C:\Users\enes.sarikaya\source\repos\MarsRoversHB\MarsRoversHB\obj\Debug\netcoreapp3.1\MarsRoversHB.csproj.CoreCompileInputs.cache
+C:\Users\enes.sarikaya\source\repos\MarsRoversHB\MarsRoversHB\obj\Debug\netcoreapp3.1\MarsRoversHB.dll
+C:\Users\enes.sarikaya\source\repos\MarsRoversHB\MarsRoversHB\obj\Debug\netcoreapp3.1\MarsRoversHB.pdb
+C:\Users\enes.sarikaya\source\repos\MarsRoversHB\MarsRoversHB\obj\Debug\netcoreapp3.1\MarsRoversHB.genruntimeconfig.cache
